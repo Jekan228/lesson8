@@ -1,0 +1,124 @@
+.main{
+background-color: rgb(24, 20, 83);
+height: 200px;
+width: 100%;
+margin-bottom: 100px;
+
+}
+.bif{
+width: 100%;
+height: 300px;
+background-color:rgb(22, 10, 66) ;
+display:flex;
+justify-content: space-around;
+transition: width 2s;
+margin-top: 300px;}
+.fa-mars-double{
+margin-top: 40px;
+font-size:xx-large;
+}
+
+
+
+
+
+.small{
+width: 150px;
+height: 150px;
+animation: skew 3s infinite;
+animation-duration: alternate;
+background-color: white;
+margin-top: 80px;
+}
+@keyframes skew{
+0% {
+transition: skewX(20deg);
+}
+100% {
+    transition: skewX(-20deg);
+}
+}
+
+.her{
+    height: 500px;
+    width: 65%;
+   background:url(./e207dd3d241976dcbca5fefcd1bfdc70.jpg) ;
+margin-left: 200px;
+margin-top: 200px;
+margin-bottom: 200px;
+}
+.fa-mars-double{
+    color: white;
+}
+.htmlphoto{
+width: 80%;
+height: 500px;
+margin-left: 200px;
+}
+.popa{
+width: 30%;
+height: 200px;
+margin-top: 100px;
+float: left;
+margin-left: 20px;
+}
+
+.dupa{
+    width: 30%;
+    height: 200px;
+    margin-top: 100px;
+    float: left;
+    margin-left: 20px;
+}
+
+.guzno{
+    width: 30%;
+    height: 200px;
+    margin-top: 100px;
+    float: left;
+    margin-left: 20px;
+}
+
+.pop{
+    width: 30%;
+    height: 200px;
+    margin-top: 100px;
+    
+    margin-left: 20px;
+}
+
+
+
+
+.dup{
+    width: 30%;
+    height: 200px;
+    margin-top: 100px;
+    
+    margin-left: 20px;
+}
+
+
+
+
+
+.guzn{
+    width: 30%;
+    height: 200px;
+    margin-top: 100px;
+    
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
